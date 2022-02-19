@@ -476,3 +476,60 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2084.622335 seconds.
+  path: Assets/調色盤.prefab
+  artifactKey: Guid(161d023f5e6e0774dbf37a78cf045fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤.prefab using Guid(161d023f5e6e0774dbf37a78cf045fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c78961ae9415244c9a2f6863ed3aa1a') in 0.061313 seconds 
+  Import took 0.066699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.196045 seconds.
+  path: Assets/調色盤.prefab
+  artifactKey: Guid(161d023f5e6e0774dbf37a78cf045fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤.prefab using Guid(161d023f5e6e0774dbf37a78cf045fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c5697a023d604a49f5f33bf95e991e7') in 0.012585 seconds 
+  Import took 0.017211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 111.062348 seconds.
+  path: Assets/場景素材/Tiles/14.png
+  artifactKey: Guid(2c51745dac3a2f845817e2184cc1806f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/Tiles/14.png using Guid(2c51745dac3a2f845817e2184cc1806f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abe5618608f11ab53dce631796406a28') in 0.033230 seconds 
+  Import took 0.038096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/場景素材/Tiles/16.png
+  artifactKey: Guid(16960852395a25d409e90f0325da377c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/Tiles/16.png using Guid(16960852395a25d409e90f0325da377c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd48753c0d070c78fa39c27efd912831') in 0.015785 seconds 
+  Import took 0.020304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/場景素材/Tiles/17.png
+  artifactKey: Guid(8964a1c05ddc21a4ba40465746e774dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/Tiles/17.png using Guid(8964a1c05ddc21a4ba40465746e774dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aafc9264242dd0a25a22896b8cc4b20f') in 0.015927 seconds 
+  Import took 0.021211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/場景素材/Tiles/15.png
+  artifactKey: Guid(28bdca2bd1e55d84e96342d19167d420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/Tiles/15.png using Guid(28bdca2bd1e55d84e96342d19167d420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850b8691bd898bdb8cf49f9e83732201') in 0.014099 seconds 
+  Import took 0.019186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.150303 seconds.
+  path: Assets/場景素材/Tiles/18.png
+  artifactKey: Guid(7ab6865fe6cdf574b9b91ba73f2d610a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景素材/Tiles/18.png using Guid(7ab6865fe6cdf574b9b91ba73f2d610a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '309bc3a8d3a32313bae6d5d80aa8b6e3') in 0.021262 seconds 
+  Import took 0.027171 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
